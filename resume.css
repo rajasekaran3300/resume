@@ -1,0 +1,14 @@
+.photo{
+    border-radius: 35px;
+}
+.photo1{
+    border-radius: 20px;
+}
+.img{
+    opacity: 0.2;
+}
+.backi{
+    background-image: url(./raj.img.JPG);
+    opacity: 0.9;
+    border-radius: 10% ;
+}
