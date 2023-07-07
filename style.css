@@ -1,0 +1,40 @@
+ .myclass{
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+    background-color: burlywood;
+    border-radius:40vmin; */
+}
+
+  .info{
+    
+    margin-left: 10%;
+    font-size:20px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
+    width:50%;
+    
+  }
+  img {
+   
+    border-radius: 100%;
+    margin:0; 
+    display:flex;
+    flex-direction: row;
+} 
+table, th, td {
+    border:0.5px solid black;
+    border-collapse:separate;
+    text-align: center;
+    padding:2px 2px 2px 2px;
+    
+  } 
+.background{
+    margin-left:10% ;
+    width: 200px;
+    height: auto;
+    opacity: 0.3;
+}
+  
+  
